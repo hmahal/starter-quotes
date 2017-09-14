@@ -7,3 +7,4 @@
 * Added second team member to the changelog
 * Added MJ to the array
 * Added tooltip to the grid on hover
+* Added actor view 
